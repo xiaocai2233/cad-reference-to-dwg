@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考图转 CAD 平面图"
+  short_description: "通过 CAD MCP 将平面参考图分层复绘为兼容 AutoCAD 2010 的 DWG"
+  default_prompt: "请使用 $cad-reference-to-dwg，以建筑图纸绘制工程师的角色，通过 CAD MCP 根据我提供的参考图绘制分层、可编辑的二维 CAD 平面图，并交付兼容 AutoCAD 2010 的 DWG 文件。"
